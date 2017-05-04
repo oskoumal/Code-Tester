@@ -10,7 +10,9 @@ Run withount arguments for interactive program menu and additional info.
 optional arguments:
   -h, --help            show this help message and exit
   -o {1,2,3,4,5,6}, --option {1,2,3,4,5,6}
-                        chosen program option
+			                  Options: 1) Run all Buffer Overflow tests 2) Run all
+                        Memory Disclosure tests 3) Run all Null Pointer
+                        Dereference tests 4) Run all tests 5) Settings 6) Help
   -l LIMIT, --limit LIMIT
                         maximum execution time of query in minutes
 
