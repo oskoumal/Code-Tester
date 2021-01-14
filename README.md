@@ -21,6 +21,9 @@ example:
 
 python Run.py -o 2 -l 1
 
+# More details:
+https://dspace.cvut.cz/handle/10467/69055
+
 # About Joern:
 Joern is a platform for robust analysis of C/C++ code developed by Fabian Yamaguchi at the Computer Security Group of the University of Goettingen. It generates code property graphs, a novel graph representation that exposes the code’s syntax, control-flow, data-flow and type information in a joint data structure. Code property graphs are stored in a Neo4J graph database. This allows code to be mined using search queries formulated in the graph traversal language Gremlin.
 
