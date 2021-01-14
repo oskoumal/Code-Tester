@@ -1,4 +1,4 @@
-# Code-Tester-script
+# Code-Tester
 Joern - based python script program for searching bugs in C/C++ code using graph database queries
 
 Simple script program for hunting of vulnerabilities using number of graph database queries
